@@ -15,12 +15,12 @@ I [Parahat Nepesov](https://linkedin.com/in/nnepesovparahat), a passionate Front
 <p align="left">
 
 <a href="https://linkedin.com/in/nnepesovparahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="nnepesovparahat" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/15222597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15222597" height="30" width="40" /></a>
-<a href="https://instagram.com/nepesovparahat18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="nepesovparahat18" height="30" width="30" /></a>
-<a href="https://twitter.com/nepesovparahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="nepesovparahat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nepesovparahatt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@nepesovparahatt" height="30" width="40" /></a>
 <a href="https://codepen.io/parahatnepesov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="parahatnepesov" height="30" width="40" /></a>
+ <a href="https://instagram.com/nepesovparahat18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="nepesovparahat18" height="30" width="30" /></a>
+<a href="https://twitter.com/nepesovparahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="nepesovparahat" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">
